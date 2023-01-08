@@ -1,0 +1,24 @@
+.player-options img,
+.enemy-options img{
+    max-width: 150px;
+    opacity: 0.3;
+    cursor: pointer;
+}
+.align{
+    display: flex;
+    margin-left: 35% ;
+
+}
+.player-options, .enemy-options{
+    width: 30%;
+}
+h1, h2{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    font-size: 30px;
+    font-style:unset;
+}
+body{
+    background-color: rgb(7, 6, 47);
+}
